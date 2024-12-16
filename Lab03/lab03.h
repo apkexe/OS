@@ -1,5 +1,5 @@
-#ifndef LAB_H
-#define LAB_H
+#ifndef LAB03_H
+#define LAB03_H
 
 // Function declaration
 void print_message(void);

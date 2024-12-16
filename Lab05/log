@@ -1,0 +1,19 @@
+/home/strikosk/Lab05
+log
+-bash: cd: path/to/directory: No such file or directory
+stat: cannot stat 'filename': No such file or directory
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 303310      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1306/strikosk)   Gid: ( 1308/strikosk)
+Access: 2024-12-16 11:44:05.938735046 +0200
+Modify: 2024-12-16 11:44:05.938735046 +0200
+Change: 2024-12-16 11:44:05.938735046 +0200
+ Birth: -
+rm: cannot remove 'file_to_delete.txt': No such file or directory
+rmdir: failed to remove 'empty_directory': No such file or directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+Good morning from Vergina Lab
+Good morning from Vergina Lab
+Good morning from Vergina Lab
+Good morning from Vergina Lab
